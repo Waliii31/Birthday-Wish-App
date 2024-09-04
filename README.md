@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Day 3 Project: Birthday Wish App 🎂🎉
 
-## Getting Started
+Welcome to Day 3 of my **30 Days 30 Projects Challenge**!
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The **Birthday Wish App** is an interactive and fun web application designed to celebrate birthdays. It allows users to participate in the celebration by lighting candles, popping balloons, and enjoying a confetti shower once all tasks are completed.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Celebrate the Birthday**: A dynamic interface where users can light candles and pop balloons.
+- **Confetti Display**: Enjoy a festive confetti display once the celebration is complete.
+- **Interactive Elements**: Clickable candles and balloons for an engaging user experience.
+- **Responsive Design**: Fully responsive layout that works well on all devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- **Next.js**: Built using the Next.js framework.
+- **React**: Manages the UI components and interactivity.
+- **TypeScript**: Provides type safety and handles the logic.
+- **shadcn/ui**: Designed the UI with this component library.
+- **Tailwind CSS**: Ensures a consistent and beautiful design across the app.
+- **Vercel**: Used for deploying the app.
 
-To learn more about Next.js, take a look at the following resources:
+## Live Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Check out the live demo of the Birthday Wish App on Vercel:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Live Demo](https://birthday-wish-app-pied.vercel.app/)
 
-## Deploy on Vercel
+## Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Birthday Wish App](https://github.com/user-attachments/assets/a7cd6a93-ca5c-4b6e-90f5-577753c391fa)
